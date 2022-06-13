@@ -1,2 +1,2 @@
 # Data-Science-Class-Projects
-This repo contains Data Science related Class Projects that I did during my bacleors at the University of Minnesota.
+This repo contains some Data Science related group projects and individual class projects that I did during my undergraduate degree at the University of Minnesota.
